@@ -50,6 +50,7 @@ public class Transportation {
                 }else {
                     System.out.println("Unknown plane model!");
                 }
+                break;
             default:
                 System.out.println("Unknown hw3.Transportation!");
         }
